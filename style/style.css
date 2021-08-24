@@ -1,0 +1,63 @@
+
+    body {
+       background-color: #294839;
+       text-align: center;
+       font-family: "Poppins",'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       text-transform: capitalize;
+       
+    }
+    hr {
+       background-color: #294839;
+       
+       border-style: dotted none none;
+       width: 30%;
+       border-width:10px;
+       border-color: rgb(26, 207, 123);
+    }
+    h1:hover {
+        color: #469b9b;
+        text-align: center;
+    }
+    h3 {
+        color: #4b9797;
+        text-align: center;
+    }
+    
+    #Perfil {
+        border-radius: 100%;
+        border-style: groove;
+        width: 450px;
+        height: 450px;
+        border-color: #294839;
+        background-color: #294839;
+    }
+    #Table1{
+        text-align: center;
+        margin: auto;
+        border: rgb(135, 189, 173);
+        background-color: rgb(135, 189, 173);
+        border-radius:10px;
+        border-style: groove;
+        border-collapse: separate;
+        border-spacing: 5px;
+    }
+    #Table2{
+        text-align: center;
+        margin: auto;
+        background-color: rgb(135, 189, 173);
+        border-radius: 30px;
+        border-style:groove;
+        border-collapse: separate;
+        border-spacing: 5px;
+    }
+    #Description{
+        color:  rgb(26, 207, 123);
+        
+    }
+    #Description2{
+        text-align: center;
+    }
+    #Description3{
+        color: rgb(26, 207, 123);
+        text-align: center;
+    }
